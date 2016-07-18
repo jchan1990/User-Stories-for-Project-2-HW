@@ -19,7 +19,7 @@ This assignment will test your understanding of creating test cases and user sto
 
 #### Requirements
 
-- Go to the [Project 2 repo](), fork & clone it, and carefully read through the project requirements
+- Go to the [Project 2 repo](https://github.com/ga-adi-nyc/Project-2---Ecommerce-Mobile-App), fork & clone it, and carefully read through the project requirements
 - Identify the features you will need to build in order to satisfy the requirements
 - Write a test case for each feature, consisting of as many conditionals as are necessary _(i.e. "The feature is implemented if the following conditions are true...")_
 - Write a concise _**user story**_ for each conditional
@@ -32,7 +32,7 @@ This assignment will test your understanding of creating test cases and user sto
 
 #### Deliverable
 
-Do not bother to fork _this_ repo. Instead, make a fork of the [Project 2 repo]() and do your work there. Your deliverable is a pull request to the Project 2 repo with your test cases and user stories in the `readme.md` file.
+Do not bother to fork _this_ repo. Instead, make a fork of the [Project 2 repo](https://github.com/ga-adi-nyc/Project-2---Ecommerce-Mobile-App) and do your work there. Your deliverable is a pull request to the Project 2 repo with your test cases and user stories in the `readme.md` file.
 
 ## Additional Resources
 - Refer to the [Intro to Testing Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/testing/testing-intro-lesson)
