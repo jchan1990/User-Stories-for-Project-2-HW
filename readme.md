@@ -19,15 +19,15 @@ This assignment will test your understanding of creating test cases and user sto
 
 #### Requirements
 
-- Go to the [Project 2 repo](), fork/clone it, and carefully read through the project requirements _(there is no need to fork this repo - just the Project 2 repo!)_
-- Identify the features you will need in order to satisfy the requirements
-- Write a test case for each feature, consisting of as many conditionals as necessary _(i.e. "The feature is implemented if the following conditions are true...")_
-- Write a concise *user story* for each conditional
+- Go to the [Project 2 repo](), fork & clone it, and carefully read through the project requirements
+- Identify the features you will need to build in order to satisfy the requirements
+- Write a test case for each feature, consisting of as many conditionals as are necessary _(i.e. "The feature is implemented if the following conditions are true...")_
+- Write a concise _**user story**_ for each conditional
 - Add your test cases & user stories to the `readme.md` of your Project 2 forked repo 
 
 **Bonus:**
 - Begin planning out the custom classes (i.e. non-Android specific classes) you'll need to represent the data you'll need for your project
-- Start writing the **Unit Tests** that will verify your custom classes' methods work properly
+- Start writing the _**Unit Tests**_ that will verify your custom classes' methods work properly
 - Finally, start implementing the methods for your custom classes - see if your tests pass!
 
 #### Deliverable
